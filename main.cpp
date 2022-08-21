@@ -1,16 +1,11 @@
- #include<iostream>
-
+#include<iostream>
 #include<conio.h>
-
 #include<windows.h>
-
 using namespace std;
 
 class Bank{
-
-	private: 
-
-	    int total;
+private: 
+	int total;
 
 	    string id;
 
